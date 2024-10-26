@@ -9,10 +9,7 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-/**
- * Name : Aïda Tadlaoui 
- * K number : 23090130
- 
+/** 
  * PropertyViewerGUI provides the GUI for the project. It displays the property
  * and strings, and it listens to button clicks.
 
