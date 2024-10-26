@@ -5,9 +5,6 @@ import javax.swing.JFrame;
 import javax.swing.JTextArea;
 
 /**
- * Name : Aïda Tadlaoui 
- * K number : 23090130
- 
  * This project implements a simple application. Properties from a fixed
  * file can be displayed. 
  * 
