@@ -13,7 +13,7 @@ import java.util.Iterator;
  * PropertyViewerGUI provides the GUI for the project. It displays the property
  * and strings, and it listens to button clicks.
 
- * @author Michael Kölling, David J Barnes, and Josh Murphy 
+ * @author Michael Kölling, David J Barnes, Josh Murphy and Aïda Tadlaoui
  * @version 3.0
  */
 public class PropertyViewerGUI
