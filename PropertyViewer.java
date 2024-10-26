@@ -9,7 +9,7 @@ import javax.swing.JTextArea;
  * file can be displayed. 
  * 
  * 
- * @author Michael Kölling and Josh Murphy
+ * @author Michael Kölling, Josh Murphy and Aïda Tadlaoui
  * @version 1.0
  */
 public class PropertyViewer
