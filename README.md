@@ -2,7 +2,7 @@ Property Viewer
 
 Overview :
 
-Property Viewer is a Java-based application designed to allow users to view and analyze property listings through a graphical interface. It supports the reading of CSV data, viewing property details, and displaying the information in an intuitive manner. The application also includes filtering options to help users find the property that best matches their preferences.
+Property Viewer is a Java-based application designed to allow users to view and analyze property listings through a graphical interface. It supports the reading of CSV data, viewing property details, and intuitively displaying the information. The application also includes filtering options to help users find the property that best matches their preferences.
 
 Features :
 
