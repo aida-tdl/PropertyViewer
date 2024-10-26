@@ -5,12 +5,9 @@ import javax.imageio.*;
 import java.io.*;
 
 /**
- * Name : Aïda Tadlaoui 
- * K number : 23090130 
- 
- * Property is a class that defines a property for display.
+ *Property is a class that defines a property for display.
  * 
- * @author  Michael Kölling and Josh Murphy
+ * @author Michael Kölling, Josh Murphy and Aïda Tadlaoui
  * @version 2.0
  */
 public class Property
