@@ -12,15 +12,12 @@ import com.opencsv.CSVReader;
 import java.net.URISyntaxException;
 
 /**
- * Name : Aïda Tadlaoui 
- * K number : 23090130
-  
  * A portfolio is a collection of properties. It reads properties from a file on disk,
  * and it can be used to retrieve single properties.
  *
  * The file name to read from is passed in at construction.
  *
- * @author Michael Kölling and Josh Murphy
+ * @author Michael Kölling, Josh Murphy and Aïda Tadlaoui
  * @version 1.0
  */
 public class Portfolio
